@@ -35,4 +35,10 @@
 ![PCA](https://github.com/ak10net/cheatsheets/blob/main/PCA.jpg)
 
 ### SQL joins
+![SQL in one page](https://github.com/ak10net/cheatsheets/blob/main/SQL%20in%20one%20page%20(1).png)
+
+![SQL join](https://github.com/ak10net/cheatsheets/blob/main/SQL%20in%20one%20page%20(2).png)
+
 ![SQL join](https://github.com/ak10net/cheatsheets/blob/main/SQL%20JOINS.jpg)
+
+

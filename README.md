@@ -1,16 +1,13 @@
 # cheatsheets
 
 ### Data science lifecycle
-![lifecycle]
-(https://github.com/ak10net/cheatsheets/blob/main/tdsp-lifecycle2.png)
+![lifecycle](https://github.com/ak10net/cheatsheets/blob/main/tdsp-lifecycle2.png)
 
 ### Roles in Project
-![Roles]
-(https://github.com/ak10net/cheatsheets/blob/main/tdsp-tasks-by-roles.png)
+![Roles](https://github.com/ak10net/cheatsheets/blob/main/tdsp-tasks-by-roles.png)
 
 ### Supervised learning
-![Supervised]
-(https://github.com/ak10net/cheatsheets/blob/main/supervised_learning_flowchart.png)
+![Supervised](https://github.com/ak10net/cheatsheets/blob/main/supervised_learning_flowchart.png)
 
 ### Chart suggestion
 ![chart suggestion](https://github.com/ak10net/cheatsheets/blob/main/CHART%20SUGGESTION.jpg)
@@ -19,26 +16,20 @@
 ![scikit learn](https://github.com/ak10net/cheatsheets/blob/main/SCIKIT%20LEARN.jpg)
 
 ### Kaggle
-![Kaggle]
-(https://github.com/ak10net/cheatsheets/blob/main/kaggle.png)
+![Kaggle](https://github.com/ak10net/cheatsheets/blob/main/kaggle.png)
 
 ### Spark
-![Spark]
-(https://github.com/ak10net/cheatsheets/blob/main/SPARK.jpg)
+![Spark](https://github.com/ak10net/cheatsheets/blob/main/SPARK.jpg)
 
 ### Sentiment analysis
-![Sentiment]
-(https://github.com/ak10net/cheatsheets/blob/main/sentiment-analysis-approach.jpg)
+![Sentiment](https://github.com/ak10net/cheatsheets/blob/main/sentiment-analysis-approach.jpg)
 
 ### Collaborative filtering
-![Collaborative filtering approaches]
-(https://github.com/ak10net/cheatsheets/blob/main/COLLABORATIVE%20FILTERING.png)
+![Collaborative filtering approaches](https://github.com/ak10net/cheatsheets/blob/main/COLLABORATIVE%20FILTERING.png)
 
-![Collaborative filtering model based]
-(https://github.com/ak10net/cheatsheets/blob/main/COLLABORATIVE%20FILTERING%20MODEL%20BASED.png)
+![Collaborative filtering model based](https://github.com/ak10net/cheatsheets/blob/main/COLLABORATIVE%20FILTERING%20MODEL%20BASED.png)
 
-![Matrix factorization]
-(https://github.com/ak10net/cheatsheets/blob/main/MATRIX%20FACTORIZATION.png)
+![Matrix factorization](https://github.com/ak10net/cheatsheets/blob/main/MATRIX%20FACTORIZATION.png)
 
 ### Principal component analysis
 ![PCA](https://github.com/ak10net/cheatsheets/blob/main/PCA.jpg)
